@@ -7,6 +7,8 @@
 למדתי המון וכולי מוטיבציה להמשיך ללמוד ולהתפתח ואני לא יכול לחכות למה שעתיד לבוא! 🚀
 ברצוני להודות ל-jsmastery על הרעיון שהיווה את הבסיס לפרויקט זה.
 
+הוספתי כאן הסבר קצר לפקודות שצריך לכתוב בterminal של vscode כדי לפתוח את האתר:
+
 
 # Getting Started with Create React App
 
